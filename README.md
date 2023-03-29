@@ -4,4 +4,4 @@
 
 💻 **Professor de Computação** ` Instituto Federal do Norte de Minas Gerais / IFNMG ` <br />
 ☕ **Bacharelado em Sistemas de Informação** ` Universidade Estadual de Montes Claros / Unimontes ` <br />
-:iphone: **Mestre em Computação / Redes de Computadores e Sistemas Distribuídos** ` Universidade Federal Fluminense / UFF `
+![](https://github.com/mlteal/custom-emoji/blob/master/penguin-dance.gif) **Mestre em Computação / Redes de Computadores e Sistemas Distribuídos** ` Universidade Federal Fluminense / UFF `
