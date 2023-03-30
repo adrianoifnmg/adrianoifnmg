@@ -9,7 +9,7 @@
 
 <hr />
 
-![My Skills](https://skillicons.dev/icons?i=linux,c,py,php,vscode,docker,git&theme=light)
+![My Skills](https://skillicons.dev/icons?i=devto,linux,c,py,php,vscode,docker,git&theme=light)
 
 
 <img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/dino.gif" align="center">
