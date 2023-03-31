@@ -22,4 +22,4 @@
 [![My Skills](https://skillicons.dev/icons?i=devto,linux,py,c,js,php,mysql,bash,vscode,docker,git&theme=light)](#)
 
 
-<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/dino.gif" align="center">
+<a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/dino.gif" align="center"></a>
