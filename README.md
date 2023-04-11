@@ -7,7 +7,7 @@
 [<img src="https://github.com/mlteal/custom-emoji/blob/master/woohoo.gif" width="30" height="30">](#) **Bacharelado em Sistemas de Informação** ` Universidade Estadual de Montes Claros / Unimontes ` <br />
 [<img src="https://github.com/mlteal/custom-emoji/blob/master/penguin-dance.gif" width="30" height="28">](#) **Mestre em Computação / Redes de Computadores e Sistemas Distribuídos** ` Universidade Federal Fluminense / UFF `
 
-## 💻 Disciplinas 
+## [<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/vader3.gif" height="35">](#) Disciplinas 
 
 [![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ESTRUTURAS_DE_DADOS_1_-21842e)](https://github.com/adrianoifnmg/EstruturasDeDados1)
 <br />
