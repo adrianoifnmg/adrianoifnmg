@@ -17,7 +17,7 @@
 <br />
 [![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_SISTEMAS_DISTRIBUÍDOS_-E7ECF0)](#)
 
-[![badge](https://img.shields.io/badge/_CAMPUS_PARTY_15_-_CONTEÚDO_-21842e)](https://github.com/adrianoifnmg/CampusParty15)
+[![badge](https://img.shields.io/badge/_CAMPUS_PARTY_15_/_CONTEÚDO_-21842e)](https://github.com/adrianoifnmg/CampusParty15)
 <br />
 
 ## 
