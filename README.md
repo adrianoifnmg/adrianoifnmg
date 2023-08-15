@@ -17,9 +17,6 @@
 <br />
 [![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_REDES_DE_COMPUTADORES_-E7ECF0)](#)
 
-[![badge](https://img.shields.io/badge/_CONTEÚDO_APRESENTAÇÃO_-_CAMPUS_PARTY_15_-21842e)](https://github.com/adrianoifnmg/CampusParty15)
-<br />
-
 ## 
 
 [![My Skills](https://skillicons.dev/icons?i=devto,linux,py,c,js,php,mysql,bash,vscode,aws,docker,git&theme=light)](#)
