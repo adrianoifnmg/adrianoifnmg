@@ -16,15 +16,16 @@
 [![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_SISTEMAS_DISTRIBUÍDOS_-21842e)](https://github.com/adrianoifnmg/SistemasDistribuidos)
 <br />
 [![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_REDES_DE_COMPUTADORES_-E7ECF0)](#)
-\
-\
+
+**`ETC $> `**
+[`Dissertações`](https://github.com/adrianoifnmg/Dissertacoes) 
+[`Fundamentos Eletrônica`](https://github.com/adrianoifnmg/FundamentosEletronica) 
+[`CPBR 15`](https://github.com/adrianoifnmg/CampusParty15)
+
+
+##
 [![My Skills](https://skillicons.dev/icons?i=devto,linux,py,c,js,php,mysql,bash,vscode,aws,docker,git&theme=light)](#)
 
-## etc
-
-\$> [Dissertações](https://github.com/adrianoifnmg/Dissertacoes)
-\> [Fundamentos Eletrônica](https://github.com/adrianoifnmg/FundamentosEletronica)
-\> [CPBR 15](https://github.com/adrianoifnmg/CampusParty15)
 
 
 <a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/dino.gif" align="center"></a>
