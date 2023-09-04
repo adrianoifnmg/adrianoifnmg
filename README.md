@@ -22,7 +22,7 @@
 
 ## etc
 
-\$> [Dissertações](https://github.com/adrianoifnmg/CampusParty15)
+\$> [Dissertações](https://github.com/adrianoifnmg/Dissertacoes)
 \> [Fundamentos Eletrônica](https://github.com/adrianoifnmg/FundamentosEletronica)
 \> [CPBR 15](https://github.com/adrianoifnmg/CampusParty15)
 
