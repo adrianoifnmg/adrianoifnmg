@@ -24,7 +24,7 @@
 
 
 ##
-[![My Skills](https://skillicons.dev/icons?i=devto,linux,py,c,js,php,mysql,bash,vscode,aws,docker,git&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=devto,linux,py,c,js,php,flask,mysql,bash,vscode,aws,rabbitmq,docker,git&theme=light)](#)
 
 
 
