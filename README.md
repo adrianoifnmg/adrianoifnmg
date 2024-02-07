@@ -13,6 +13,8 @@
 <br />
 [![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_SISTEMAS_DISTRIBUÍDOS_-21842e)](https://github.com/adrianoifnmg/SistemasDistribuidos)
 <br />
+[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ESTRUTURAS_DE_DADOS_2_-E7ECF0)](https://github.com/adrianoifnmg/EstruturasDeDados2)
+<br /> 
 [![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ADMINISTRAÇÃO_DE_REDES_-E7ECF0)](https://github.com/adrianoifnmg/AdministracaoRedes)
 <br /> 
 [![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_REDES_DE_COMPUTADORES_-E7ECF0)](#)
