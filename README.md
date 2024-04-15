@@ -17,7 +17,7 @@
 <br /> 
 [![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_SISTEMAS_DISTRIBUÍDOS_-E7ECF0)](https://github.com/adrianoifnmg/SistemasDistribuidos)
 <br />
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_REDES_DE_COMPUTADORES_-E7ECF0)](#)
+[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_REDES_DE_COMPUTADORES_-E7ECF0)](https://github.com/adrianoifnmg/RedesComputadores)
 
 **`ETC $> `**
 [`Dissertações`](https://github.com/adrianoifnmg/Dissertacoes) 
